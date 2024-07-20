@@ -1,4 +1,4 @@
-<h1>Application ENSET</h1>
+<h1>Angluar Framework</h1>
 <img src="Captures/img.png">
 <img src="Captures/img_1.png">
 <img src="Captures/img_2.png">
